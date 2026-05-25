@@ -173,7 +173,7 @@ Así es como trabajarás la mayoría del tiempo:
 
 1. En el Explorador (izquierda), haz clic derecho en la carpeta
 2. Selecciona "New File"
-3. Escribe el nombre con extensión (ej: \`index.html\`, \`script.js\`, \`style.css\`)
+3. Escribe el nombre con extensión (ej: \`.ipynb\`, \`.py\`)
 4. Presiona Enter
 
 ![**[CAPTURA: Menú contextual para crear archivo]**](<./assets/Captura de pantalla 2026-05-12 a las 17.02.22.png>)
@@ -202,19 +202,7 @@ Es mucho más rápido que buscar en el Explorador.
 
 ### Estructura recomendada para el bootcamp
 
-Te recomendamos organizar tu código así:
-
-\`\`\`
-bootcamp/
-├── modulo-1/
-│   ├── leccion-1/
-│   │   ├── index.html
-│   │   ├── style.css
-│   │   └── script.js
-│   └── leccion-2/
-├── modulo-2/
-└── ejercicios/
-\`\`\`
+Te recomendamos organizar tu código con la misma estructura que usamos en el repositorio de clase.
 
 ### Navegar entre carpetas en VSCode
 
